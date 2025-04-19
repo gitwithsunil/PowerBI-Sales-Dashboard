@@ -1,0 +1,101 @@
+Order Date,Region,Category,Sales,Profit,Month-Year
+2021-01-03,West,Furniture,723,250,2021-01
+2021-01-10,East,Office Supplies,706,298,2021-01
+2021-01-17,Central,Technology,939,36,2021-01
+2021-01-24,South,Furniture,851,231,2021-01
+2021-01-31,West,Office Supplies,276,-73,2021-01
+2021-02-07,East,Technology,576,29,2021-02
+2021-02-14,Central,Furniture,491,174,2021-02
+2021-02-21,South,Office Supplies,860,189,2021-02
+2021-02-28,West,Technology,506,258,2021-02
+2021-03-07,East,Furniture,776,225,2021-03
+2021-03-14,Central,Office Supplies,137,177,2021-03
+2021-03-21,South,Technology,412,228,2021-03
+2021-03-28,West,Furniture,250,228,2021-03
+2021-04-04,East,Office Supplies,751,-28,2021-04
+2021-04-11,Central,Technology,185,286,2021-04
+2021-04-18,South,Furniture,695,139,2021-04
+2021-04-25,West,Office Supplies,764,64,2021-04
+2021-05-02,East,Technology,452,167,2021-05
+2021-05-09,Central,Furniture,255,-48,2021-05
+2021-05-16,South,Office Supplies,610,-47,2021-05
+2021-05-23,West,Technology,365,-55,2021-05
+2021-05-30,East,Furniture,650,167,2021-05
+2021-06-06,Central,Office Supplies,547,-94,2021-06
+2021-06-13,South,Technology,651,-31,2021-06
+2021-06-20,West,Furniture,378,282,2021-06
+2021-06-27,East,Office Supplies,894,70,2021-06
+2021-07-04,Central,Technology,437,161,2021-07
+2021-07-11,South,Furniture,642,-73,2021-07
+2021-07-18,West,Office Supplies,886,163,2021-07
+2021-07-25,East,Technology,734,69,2021-07
+2021-08-01,Central,Furniture,901,217,2021-08
+2021-08-08,South,Office Supplies,665,-78,2021-08
+2021-08-15,West,Technology,278,145,2021-08
+2021-08-22,East,Furniture,752,31,2021-08
+2021-08-29,Central,Office Supplies,956,227,2021-08
+2021-09-05,South,Technology,920,293,2021-09
+2021-09-12,West,Furniture,271,93,2021-09
+2021-09-19,East,Office Supplies,238,75,2021-09
+2021-09-26,Central,Technology,827,22,2021-09
+2021-10-03,South,Furniture,315,120,2021-10
+2021-10-10,West,Office Supplies,996,295,2021-10
+2021-10-17,East,Technology,506,255,2021-10
+2021-10-24,Central,Furniture,344,-12,2021-10
+2021-10-31,South,Office Supplies,540,-9,2021-10
+2021-11-07,West,Technology,564,71,2021-11
+2021-11-14,East,Furniture,905,197,2021-11
+2021-11-21,Central,Office Supplies,269,75,2021-11
+2021-11-28,South,Technology,662,268,2021-11
+2021-12-05,West,Furniture,293,126,2021-12
+2021-12-12,East,Office Supplies,977,-40,2021-12
+2021-12-19,Central,Technology,578,39,2021-12
+2021-12-26,South,Furniture,423,288,2021-12
+2022-01-02,West,Office Supplies,149,120,2022-01
+2022-01-09,East,Technology,297,211,2022-01
+2022-01-16,Central,Furniture,339,-99,2022-01
+2022-01-23,South,Office Supplies,455,127,2022-01
+2022-01-30,West,Technology,454,174,2022-01
+2022-02-06,East,Furniture,692,255,2022-02
+2022-02-13,Central,Office Supplies,218,-73,2022-02
+2022-02-20,South,Technology,384,292,2022-02
+2022-02-27,West,Furniture,211,-35,2022-02
+2022-03-06,East,Office Supplies,203,77,2022-03
+2022-03-13,Central,Technology,173,197,2022-03
+2022-03-20,South,Furniture,948,34,2022-03
+2022-03-27,West,Office Supplies,626,56,2022-03
+2022-04-03,East,Technology,675,150,2022-04
+2022-04-10,Central,Furniture,245,143,2022-04
+2022-04-17,South,Office Supplies,692,152,2022-04
+2022-04-24,West,Technology,295,-55,2022-04
+2022-05-01,East,Furniture,213,292,2022-05
+2022-05-08,Central,Office Supplies,710,41,2022-05
+2022-05-15,South,Technology,229,-56,2022-05
+2022-05-22,West,Furniture,129,281,2022-05
+2022-05-29,East,Office Supplies,880,278,2022-05
+2022-06-05,Central,Technology,688,184,2022-06
+2022-06-12,South,Furniture,389,229,2022-06
+2022-06-19,West,Office Supplies,102,66,2022-06
+2022-06-26,East,Technology,375,-38,2022-06
+2022-07-03,Central,Furniture,568,91,2022-07
+2022-07-10,South,Office Supplies,613,209,2022-07
+2022-07-17,West,Technology,975,15,2022-07
+2022-07-24,East,Furniture,870,162,2022-07
+2022-07-31,Central,Office Supplies,526,198,2022-07
+2022-08-07,South,Technology,587,6,2022-08
+2022-08-14,West,Furniture,340,231,2022-08
+2022-08-21,East,Office Supplies,734,-93,2022-08
+2022-08-28,Central,Technology,730,81,2022-08
+2022-09-04,South,Furniture,555,123,2022-09
+2022-09-11,West,Office Supplies,273,-8,2022-09
+2022-09-18,East,Technology,821,267,2022-09
+2022-09-25,Central,Furniture,292,132,2022-09
+2022-10-02,South,Office Supplies,526,184,2022-10
+2022-10-09,West,Technology,155,130,2022-10
+2022-10-16,East,Furniture,102,13,2022-10
+2022-10-23,Central,Office Supplies,646,11,2022-10
+2022-10-30,South,Technology,140,-99,2022-10
+2022-11-06,West,Furniture,554,-16,2022-11
+2022-11-13,East,Office Supplies,952,20,2022-11
+2022-11-20,Central,Technology,540,-64,2022-11
+2022-11-27,South,Furniture,143,27,2022-11

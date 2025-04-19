@@ -1,0 +1,9 @@
+📌 Task 8 - Dashboard Insights
+
+The West region had the highest total sales, with the East close behind — Central and South regions showed comparatively lower performance.
+
+Phones and Chairs dominate sales in their respective sub-categories, indicating strong customer preference or demand.
+
+Profit and discount are inversely related, as observed in the scatter plot. Higher discounts often correlate with lower profits.
+
+Certain customers like Zusschuss Carroll and Emily Phan stand out in terms of their profitability contribution — either positively or negatively.
